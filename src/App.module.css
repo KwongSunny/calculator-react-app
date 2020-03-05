@@ -1,0 +1,16 @@
+div {
+    margin: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+  
+.buttonRow {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    height: 50px;
+    margin: 1px;
+}
+  
+a {
+    color: #333;
+    text-decoration: none;
+}
